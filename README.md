@@ -2,7 +2,7 @@
 
 ### backend developer
 
-<img src="https://img.shields.io/badge/JAVA-#ECD53F?style=flat-square&logo=Java&logoColor=white&link=내링크"/>
+<img src="https://img.shields.io/badge/JAVA-#ECD53F?style=flat-square&logo=Spring&logoColor=white"/>
 <!--
 **yeopp/yeopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
